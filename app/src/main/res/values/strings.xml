@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidIoritz</string>
+    <string name="Txtlaguneska">LAGUNTZA ESKAERA</string>
+    <string name="TXTdATUPERTSONAL">Datu pertsonalak:</string>
+    <string name="hintIzena">Izena</string>
+    <string name="HintAbizen1">Abizena1</string>
+    <string name="HintAbizen2">Abizena2</string>
+    <string name="BtnHurrengo">Hurrengoa</string>
+    <string name="btnHustu">Hustu</string>
+    <string name="hintUrte">Jaioturtea</string>
+    <string name="TxtSemeAlaba">Seme-alabak:</string>
+    <string name="Radio1">Seme-alabarik gabe</string>
+    <string name="Radio2">Seme-alaba bat</string>
+    <string name="radio3">2 seme-alaba edo gehiago</string>
+    <string name="UrtekoDiruSarre">Urteko diru-sarrerak</string>
+    <string name="txtErabaki">Erabakia</string>
+    <string name="BtnHustu">Hustu</string>
+    <string name="tnirten">Irten</string>
+</resources>
